@@ -34,7 +34,7 @@ I’m a *FullStack and Mobile Software Engineer*, always eager to learn and grow
 ##
 
 <div>
-  <a href="https://github.com/[seu-usuario-do-github]">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario-do-github]&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario-do-github]&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <a href="https://github.com/FlavysonFelipe314">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FlavysonFelipe314&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavysonFelipe314&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
